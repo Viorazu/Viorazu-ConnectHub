@@ -1,0 +1,6 @@
+Verification (minimal)
+- GitHub: https://github.com/Viorazu/Viorazu-ConnectHub
+- Zenodo (record): https://doi.org/10.5281/zenodo.17264530
+- Zenodo (concept): https://doi.org/10.5281/zenodo.17264529
+- ORCID: https://orcid.org/0009-0002-6876-9732
+- PDF SHA-256: 09ade5b761d9516dab86e356cc7648940091ee1df46e7c29b8110fb2af6340b3
