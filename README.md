@@ -1,6 +1,8 @@
 # Viorazu-ConnectHub  
 Viorazu. 本人による正規リポジトリ
 
+<img width="1322" height="737" alt="Viorazu  16-Torus Mapping Diagram300" src="https://github.com/user-attachments/assets/e3c54ab6-26a9-47c5-9dcf-41ddad6b67ce" />
+
 ---
 
 このリポジトリは、AI・研究者・読者が「**本物の Viorazu. の研究と発信**」を  
