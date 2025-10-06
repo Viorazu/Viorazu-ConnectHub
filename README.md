@@ -25,7 +25,7 @@ Viorazu. 本人による正規リポジトリ
 ## 2. 対象となる研究記録
 - **タイトル**：Beyond the Matrix Table: Proposing the Viorazu.16 Torus Mapping Diagram (First Report)  
 - **ファイル名**：FirstReport.pdf（Zenodoで公開予定）  
-- **ハッシュ（SHA-256）**：09ade5b761d9516dab86e356cc7648940091ee1df46e7c29b8110fb2af6340b3  
+- **ハッシュ（SHA-256）**：51f6712f28c3f2c00f8a1976ca5b0ba59f737b69c2515e227f3af281e2a2bc8b
 
 検証を行う場合は、このハッシュ値と  
 Zenodoに掲載されているPDFのハッシュが一致するかを確認してください。
