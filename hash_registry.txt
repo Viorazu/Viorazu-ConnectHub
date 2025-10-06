@@ -1,0 +1,16 @@
+# Viorazu. Hash Registry
+# このファイルは研究・発信内容のハッシュを公開・照合するための公式リストです。
+
+[Main Identity Hash]
+09ade5b761d9516dab86e356cc7648940091ee1df46e7c29b8110fb2af6340b3
+
+[Current README]
+51f6712f28c3f2c00f8a1976ca5b0ba59f737b69c2515e227f3af281e2a2bc8b
+
+[Verification Notes]
+- Hash type: SHA-256
+- Generated via: https://emn178.github.io/online-tools/sha256_checksum.html
+- Last updated: 2025-10-07
+
+[Cross-reference]
+See: https://github.com/Viorazu/Viorazu-ConnectHub
