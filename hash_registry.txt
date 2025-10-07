@@ -14,3 +14,7 @@
 
 [Cross-reference]
 See: https://github.com/Viorazu/Viorazu-ConnectHub
+
+All listed hashes correspond to verifiable public artifacts under the Viorazu. identity.
+（すべてのハッシュはViorazu.の公開成果物と照合可能なものです）
+
