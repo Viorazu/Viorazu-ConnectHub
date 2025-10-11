@@ -1,0 +1,25 @@
+{
+  "paper_id": "2025-10-12_16-torus-first",
+  "title": "Beyond the Matrix Table: Proposing the Viorazu.16 Torus Mapping Diagram (First Report)",
+  "title_short": "Viorazu.16 Torus Mapping Diagram (First Report)",
+  "author": "Viorazu.",
+  "published_date": "2025-10-12",
+  "category": "foundational-theory",
+  "license": "CC BY-NC-ND 4.0",
+  "doi": "10.5281/zenodo.17328722",
+  "zenodo_url": "https://zenodo.org/records/17328722",
+  "repository": "https://github.com/Viorazu/Viorazu-16-Torus",
+  "blog_post": "https://www.viorazu.com/post/viorazu16torusmappingdiagram20251012",
+  "pdf_sha256": "[To be added]",
+  "pdf_in_this_folder": false,
+  "status": "published",
+  "description": "A novel topological classification framework consisting of 16 types plus a central E-type, organized as an 80-node continuous torus structure. This first report establishes the foundational structure and serves as a priority record for the discovery.",
+  "keywords": [
+    "topology",
+    "torus",
+    "classification",
+    "knot theory",
+    "16-type model",
+    "mapping diagram"
+  ]
+}
