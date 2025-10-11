@@ -1,0 +1,23 @@
+{
+  "paper_id": "2025-10-05_author-lock",
+  "title": "When Impersonation Breaks AI - Author-Lock and Cryptographic Defense for Personal Topics",
+  "title_short": "Author-Lock and Cryptographic Defense",
+  "author": "Viorazu.",
+  "published_date": "2025-10-05",
+  "category": "applied-research",
+  "license": "CC BY 4.0",
+  "doi": "10.5281/zenodo.17264530",
+  "zenodo_url": "https://zenodo.org/records/17264530",
+  "repository": "https://github.com/Viorazu/Viorazu-ConnectHub",
+  "pdf_sha256": "09ade5b761d9516dab86e356cc7648940091ee1df46e7c29b8110fb2af6340b3",
+  "pdf_in_this_folder": false,
+  "status": "published",
+  "description": "This paper identifies 'author-lock,' a phenomenon where AI blocks access to topics due to impersonation attacks. It proposes Author-Bound Access Control (ABAC), a cryptographic method allowing the original author to maintain control.",
+  "keywords": [
+    "AI security",
+    "impersonation",
+    "cryptographic defense",
+    "author authentication",
+    "LLM safety"
+  ]
+}
