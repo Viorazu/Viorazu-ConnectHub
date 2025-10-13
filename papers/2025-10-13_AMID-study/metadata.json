@@ -1,0 +1,27 @@
+{
+  "paper_id": "2025-10-13_AMID-study",
+  "title": "AI対話システムの過使用による認知的境界の喪失：オンラインコミュニティにおける6ヶ月間の観察研究",
+  "title_en": "Cognitive Boundary Dissolution Through AI Dialogue System Overuse: A 6-Month Observational Study in an Online Community",
+  "title_short": "AMID Study (JP)",
+  "author": "Viorazu.",
+  "published_date": "2025-10-13",
+  "category": "cognitive-psychology",
+  "license": "CC BY-SA 4.0",
+  "doi": "10.5281/zenodo.17340656",
+  "zenodo_url": "https://zenodo.org/records/17340656",
+  "pdf_sha256": "2efd712853db1d4f9abe4c79059a9d4f5c08fcad18e6e3537f4e05cc0fa6e86a",
+  "pdf_in_this_folder": false,
+  "status": "published",
+  "language": "ja",
+  "description": "本研究は、AI対話システムの継続使用によって、ユーザーの認知的境界（自己と他者、現実と仮想の区別）がどのように変化・喪失していくかを6か月間観察したものである。AI媒介同一性拡散（AMID）という新現象を提示し、境界汚染仮説によるメカニズムを説明する。",
+  "keywords": [
+    "人工知能",
+    "認知的境界",
+    "同一性混乱",
+    "プロンプトインジェクション",
+    "AI恋人",
+    "境界喪失",
+    "AMID",
+    "オンライン行動"
+  ]
+}
