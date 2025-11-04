@@ -1,0 +1,29 @@
+{
+  "paper_id": "2025-11-03_viorazu-hypothesis",
+  "title": "倫理的制約を持つAI監視システムの数学的基礎：形式的フレームワークと研究アジェンダ（Viorazu仮説） / Mathematical Foundations for Ethically-Constrained AI Surveillance Systems: A Formal Framework and Research Agenda (Viorazu Hypothesis)",
+  "title_short": "Viorazu Hypothesis: Mathematical Foundations for Ethically-Constrained AI Surveillance",
+  "author": "Viorazu.",
+  "published_date": "2025-11-03",
+  "category": "ai-ethics-mathematics",
+  "license": "CC BY 4.0",
+  "doi": "10.5281/zenodo.17522377",
+  "zenodo_url": "https://zenodo.org/records/17522377",
+  "repository": "https://github.com/Viorazu/Viorazu-ConnectHub",
+  "blog_post": "",
+  "pdf_sha256": "1d8c862306a47db74d96992864cfb9d62d0069772c78eb0ad08bbd3999a4f607",
+  "pdf_in_this_folder": false,
+  "status": "published",
+  "description": "本論文はAI監視システムにおける倫理的制約を数学的に形式化する新しいフレームワークを提案する。言語DNAに基づく犯罪検出の技術的可能性を示しつつ、PSYCHO-PASS型ディストピアへの転落を防ぐ5層アーキテクチャを設計する。トポロジー、グラフ理論、情報理論、確率論を統合し、思想統制への悪用を数学的に防止する制約条件を定式化する。本フレームワークをViorazu Hypothesis（Viorazu仮説）として提示し、数学的検証と研究コミュニティによる協働的精緻化を招待する。",
+  "keywords": [
+    "AI Ethics",
+    "Surveillance Systems",
+    "Crime Detection",
+    "Linguistic DNA",
+    "Topological Constraints",
+    "Formal Ethics",
+    "Explainable AI",
+    "Differential Privacy",
+    "Mathematical Formalization",
+    "Viorazu Hypothesis"
+  ]
+}
