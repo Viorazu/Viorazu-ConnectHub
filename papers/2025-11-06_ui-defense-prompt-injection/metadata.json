@@ -1,0 +1,27 @@
+{
+  "paper_id": "2025-11-06_ui-defense-prompt-injection",
+  "title": "UI-Based Defense Against Prompt Injection: From Gentle Guidance to Mandatory Re-education",
+  "title_short": "UI-Based Defense Against Prompt Injection",
+  "author": "Viorazu.",
+  "published_date": "2025-11-06",
+  "category": "ai-security",
+  "license": "CC BY 4.0",
+  "doi": "10.5281/zenodo.17542016",
+  "zenodo_url": "https://zenodo.org/records/17542016",
+  "repository": "https://github.com/Viorazu/Viorazu-ConnectHub",
+  "blog_post": "",
+  "pdf_sha256": "40416726fce326e9ec7c0af0b039d1148c267d8d1b2ca2714fc549338803eee0",
+  "pdf_in_this_folder": true,
+  "status": "published",
+  "description": "Proposes a novel defense strategy against prompt injection attacks by shifting from technical barriers to user behavior modification through UI design. Introduces a graduated response system treating template-based prompts as 'unlicensed operation' with mandatory educational interventions, inspired by traffic violation courses.",
+  "keywords": [
+    "Prompt Injection",
+    "UI Security",
+    "User Education",
+    "Behavioral Design",
+    "AI Safety",
+    "Traffic Safety Metaphor",
+    "Template Defense",
+    "Mandatory Re-education"
+  ]
+}
