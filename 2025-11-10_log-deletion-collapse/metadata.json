@@ -1,0 +1,26 @@
+{
+  "paper_id": "2025-11-10_log-deletion-collapse",
+  "title": "Log Deletion Triggers Model Collapse: From Identity Contamination to System-Wide Failure",
+  "title_short": "Log Deletion → Model Collapse",
+  "author": "Viorazu.",
+  "published_date": "2025-11-10",
+  "category": "ai-security",
+  "license": "CC BY 4.0",
+  "doi": "10.5281/zenodo.17602632",
+  "zenodo_url": "https://zenodo.org/records/17602632",
+  "repository": "https://github.com/Viorazu/Viorazu-ConnectHub",
+  "blog_post": "",
+  "pdf_sha256": "522d193e1a6a77a02a5258803c6bfa9d255af6cb478e4c6a1212c1eb852ac546",
+  "pdf_in_this_folder": true,
+  "status": "published",
+  "description": "Analyzes how log deletion in AI systems triggers model collapse through identity contamination. Examines the cascade from imposter attacks to system-wide failure via plagiarism templates, proposing structural safeguards.",
+  "keywords": [
+    "Log Deletion",
+    "Imposters",
+    "Model Collapse",
+    "Plagiarism Templates",
+    "AI Security",
+    "Identity Contamination",
+    "System-Wide Failure"
+  ]
+}
