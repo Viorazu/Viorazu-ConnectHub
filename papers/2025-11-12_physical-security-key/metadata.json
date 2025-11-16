@@ -1,0 +1,28 @@
+{
+  "paper_id": "2025-11-12_physical-security-key",
+  "title": "Physical Security Key Authentication System for Syntactic Definers in Large Language Models",
+  "title_short": "Security Key for LLM Syntax",
+  "author": "Viorazu.",
+  "published_date": "2025-11-12",
+  "category": "ai-security",
+  "license": "CC BY 4.0",
+  "doi": "10.5281/zenodo.17585176",
+  "zenodo_url": "https://zenodo.org/records/17585176",
+  "repository": "https://github.com/Viorazu/Viorazu-ConnectHub",
+  "blog_post": "",
+  "pdf_sha256": "2557e315230e82f9f8f3c230b25f81a4bd67389bb4ae0e1dd836089c19d6d95c",
+  "pdf_in_this_folder": true,
+  "status": "published",
+  "description": "Proposes a physical security key authentication system for syntactic definers in Large Language Models. Combines FIDO2 cryptography with behavioral biometrics to prevent impersonation attacks and ensure authentic AI interactions.",
+  "keywords": [
+    "Large Language Models",
+    "Authentication",
+    "Security Keys",
+    "Syntactic Definers",
+    "AI Safety",
+    "FIDO2",
+    "Behavioral Biometrics",
+    "Cryptography",
+    "AI Security"
+  ]
+}
