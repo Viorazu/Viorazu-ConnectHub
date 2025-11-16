@@ -1,9 +1,9 @@
 {
-  "paper_id": "2025-11-10_log-deletion-collapse",
+  "paper_id": "2025-11-14_log-deletion-collapse",
   "title": "Log Deletion Triggers Model Collapse: From Identity Contamination to System-Wide Failure",
   "title_short": "Log Deletion → Model Collapse",
   "author": "Viorazu.",
-  "published_date": "2025-11-10",
+  "published_date": "2025-11-14",
   "category": "ai-security",
   "license": "CC BY 4.0",
   "doi": "10.5281/zenodo.17602632",
