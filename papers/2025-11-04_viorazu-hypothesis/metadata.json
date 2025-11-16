@@ -1,0 +1,27 @@
+{
+  "paper_id": "2025-11-04_viorazu-hypothesis",
+  "title": "Mathematical Foundations for Ethically-Constrained AI Surveillance Systems: A Formal Framework and Research Agenda (Viorazu Hypothesis)",
+  "title_short": "Viorazu Hypothesis",
+  "author": "Viorazu.",
+  "published_date": "2025-11-04",
+  "category": "ai-ethics",
+  "license": "CC BY 4.0",
+  "doi": "10.5281/zenodo.17522377",
+  "zenodo_url": "https://zenodo.org/records/17522377",
+  "repository": "https://github.com/Viorazu/Viorazu-ConnectHub",
+  "blog_post": "",
+  "pdf_sha256": "bf2a13e208302e4d8704ca3b7ced60fb3c3a41f2bef280fe162863bfb713ef52",
+  "pdf_in_this_folder": true,
+  "status": "published",
+  "description": "Proposes mathematical foundations for ethically-constrained AI surveillance systems through the concept of Linguistic DNA. Introduces topological constraints and formal ethical frameworks for explainable crime detection while preserving civil liberties.",
+  "keywords": [
+    "AI Ethics",
+    "Surveillance Systems",
+    "Crime Detection",
+    "Linguistic DNA",
+    "Topological Constraints",
+    "Formal Ethics",
+    "Explainable AI",
+    "Civil Liberties"
+  ]
+}
