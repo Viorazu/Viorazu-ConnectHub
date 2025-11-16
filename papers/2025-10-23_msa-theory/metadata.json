@@ -1,0 +1,29 @@
+{
+  "paper_id": "2025-10-23_msa-theory",
+  "title": "Minimum Spanning Argument (MSA): A Method for Writing That Leads Every Reader to the Same Conclusion",
+  "title_short": "MSA Theory",
+  "author": "Viorazu.",
+  "published_date": "2025-10-23",
+  "category": "argumentation-theory",
+  "license": "CC BY 4.0",
+  "doi": "10.5281/zenodo.17623709",
+  "zenodo_url": "https://zenodo.org/records/17623709",
+  "repository": "https://github.com/Viorazu/Viorazu-ConnectHub",
+  "blog_post": "",
+  "pdf_sha256": "55e05620f472fb4229073029d7c214569be30c6d3c306c5dc9a6f627e7960a60",
+  "pdf_in_this_folder": true,
+  "status": "published",
+  "description": "Proposes Minimum Spanning Argument (MSA), a novel argumentation framework based on graph theory. MSA ensures unique interpretation by all readers through five axioms: completeness, minimality, acyclicity, ordering, and uniqueness. Validated through case studies in linguistics, narrative analysis, and mathematics. Applications include academic writing, technical documentation, and AI text evaluation.",
+  "keywords": [
+    "Graph Theory",
+    "Minimum Spanning Tree",
+    "Argumentation",
+    "Computational Linguistics",
+    "Unique Interpretation",
+    "DAG",
+    "Formal Logic",
+    "Text Structure",
+    "Academic Writing",
+    "AI Quality Evaluation"
+  ]
+}
